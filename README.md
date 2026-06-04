@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan125&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan125" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjan125" alt="gunjan125" /></a> </p>
-
 - 🔭 I’m currently working on **Clinical and Medical AI**
 
 - 🌱 I’m currently learning **Deep Learning and Reinforcement Learning**
@@ -23,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/contact-gunjan-soni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contact-gunjan-soni/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gunjansoni19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gunjansoni19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/contact-gunjan-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contact-gunjan-soni" height="30" width="40" /></a>
+<a href="https://kaggle.com/gunjansoni19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gunjansoni19" height="30" width="40" /></a>
 <a href="https://medium.com/@gunjansoni20058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gunjansoni20058" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gunjan_soni_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gunjan_soni_19/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/gunjan_soni_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/gunjan_soni_19/" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/444303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="444303" height="30" width="40" /></a>
 </p>
 
@@ -36,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjan125&show_icons=true&locale=en&layout=compact" alt="gunjan125" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjan125&show_icons=true&locale=en" alt="gunjan125" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan125&" alt="gunjan125" /></p>
