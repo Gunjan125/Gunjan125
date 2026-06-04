@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunjan</h1>
-<h3 align="center">Exploring AI, Deep Learning, Reinforcement Learning & Intelligent Systems</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan125&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan125" /> </p>
+<h3 align="center">Exploring AI, Deep Learning & Reinforcement Learning</h3>
 
 - 🔭 I’m currently working on **Clinical and Medical AI**
 
@@ -25,7 +23,6 @@
 <a href="https://kaggle.com/gunjansoni19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gunjansoni19" height="30" width="40" /></a>
 <a href="https://medium.com/@gunjansoni20058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gunjansoni20058" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/gunjan_soni_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/gunjan_soni_19/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/444303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="444303" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
